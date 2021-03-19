@@ -2,6 +2,7 @@
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
+прикол
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
